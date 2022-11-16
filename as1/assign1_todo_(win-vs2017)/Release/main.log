@@ -1,0 +1,12 @@
+﻿  main.cpp
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(55): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(58): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(66): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(67): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(68): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(72): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(73): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(74): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(506): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/OPT:ICF”规范)
+  main.vcxproj -> F:\Desk\assign1_todo_(win-vs2017)\Release\main.exe

@@ -1,0 +1,12 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  main.cpp
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(55): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(58): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(66): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(67): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(68): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(72): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(73): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(74): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+f:\desk\assign1_todo_(win-vs2017)\main.cpp(506): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+  main.vcxproj -> F:\Desk\assign1_todo_(win-vs2017)\Debug\main.exe
