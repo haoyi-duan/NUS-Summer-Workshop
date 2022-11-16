@@ -1,4 +1,13 @@
 # NUS-Summer-Workshop
+
+###### Real Time Graphics Rendering
+
+The previous group project [Open_City](https://github.com/Veneziahhh/Open_City) enables me to master the basic knowledge of computer graphics and be able to render images based on the OpenGL framwork. Unfortunately, I have not been able to achieve ray tracing. So I chose Real Time Graphics Rendering as my learning track in NUS Summer Workshop the instance I heard we are supposed to program our own ray tracing system for the final group project.
+
+as1/as2/as3/as4 are personal assignments, as5 is group project. I have done excellent work and I received [A+ performance]() evaluated by School of Computing, National University of Singapore!
+
+###### as5
+
 Real Time Ray Tracing on GPU SWS3005
 ![image](https://user-images.githubusercontent.com/58615742/202093406-48a48b53-69b9-4699-b3f1-b8dc33c58945.png)
 
